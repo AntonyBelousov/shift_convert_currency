@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="header_currency_char_code">Валюта</string>
+    <string name="header_currency_nominal">Единиц</string>
+    <string name="header_currency_rate">Курс ЦБ РФ</string>
+    <string name="converter_header">КОНВЕРТЕР ПО КУРСУ ЦБ</string>
+    <string name="default_value_sum_field">0</string>
+    <string name="hint_sum_field">Сумма в рублях</string>
+    <string name="tv_label_text">RUB</string>
+    <string name="btn_convert_text">Рассчитать</string>
+</resources>
